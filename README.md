@@ -4,7 +4,7 @@
  <img width=500 src="image-readme/screenshot-project.png" alt="Project logo"></a>
 </p>
 
-Website construído para um trabalho para a matéria de Web, onde era possível realizar a escolha de 2 temas: Música ou Notícias. Decidi escolher com o tema de música e dedicado ao cantor Fernando Daniel.
+Website construído para um trabalho para a matéria de Web, onde era possível realizar a escolha de 2 temas: Música ou Notícias. Decidi escolher o tema de música.
 
 ## Dependências 🧰
 
