@@ -28,7 +28,7 @@ const Singles = () =>  (
                     <SingleCard image={singleVoltas} description="Single Voltas" link="https://open.spotify.com/track/3K53RODdfVk8K9yv3GCPQP?si=fxZv8wRNR9K1ZrqT39Lw5g"/>
                 </Col>
             </Row>
-            <Footer> Copyright © 2020 | Designer by Lucas Alvarenga </Footer>
+            <Footer> Copyright © 2020 | Design by Lucas Alvarenga </Footer>
         </Container>
     </Element>
 )
