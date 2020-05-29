@@ -1,7 +1,7 @@
 <h2 align="center">Aplicação Web - React.Js</h2>
 
 <p align="center">
- <img width=500 src="image-readme/screenshot-project.png" alt="Project logo"></a>
+ <img width="80%" src="image-readme/mockup-project.png" alt="Project logo"></a>
 </p>
 
 Website construído para um trabalho para a matéria de Web, onde era possível realizar a escolha de 2 temas: Música ou Notícias. Decidi escolher o tema de música e construir uma aplicação web dedicada ao cantor Fernando Daniel.
