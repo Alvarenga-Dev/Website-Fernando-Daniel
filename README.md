@@ -23,4 +23,4 @@ Website construído para um trabalho para a matéria de Web, onde era possível 
 
 ## Dá uma estrelinha! ⭐️
 
-Copyright © 2019 [Lucas Alvarenga](https://github.com/Alvarenga-Dev). <br/>
+Copyright © 2020 [Lucas Alvarenga](https://github.com/Alvarenga-Dev). <br/>
